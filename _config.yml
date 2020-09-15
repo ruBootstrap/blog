@@ -32,8 +32,10 @@ themes:          "https://themes.getbootstrap.com/"
 opencollective:  "https://opencollective.com/bootstrap"
 
 # Social
-# Default posts' author
-author:         "mdo"
+# Default author info
+author:
+  name:         "Mark Otto, Jacob Thornton, and Bootstrap contributors"
+  twitter:      "getbootstrap"
 
 twitter:
   card:         "summary_large_image"
